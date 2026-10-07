@@ -20,6 +20,7 @@ The business is busier because of the Christmas season, not because something is
 - **Period:** 1 Dec 2010 – 9 Dec 2011
 - **Size:** 541,909 rows raw → 534,131 after cleaning
 - Raw file not uploaded because of its size. Download it and place it in `data/raw/`.
+- The Excel workbook is too large for GitHub. The dashboard screenshot and docs show the full analysis.
 
 ## Approach
 1. **Problem framing:** turned a vague brief into clear questions, metrics and definitions → [problem_framing.md](docs/problem_framing.md)
